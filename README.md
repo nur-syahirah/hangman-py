@@ -63,7 +63,7 @@ This project served as a hands-on exercise for practicing:
 
 ---
 
-## 📚 What I Learned
+## 📚 What I've Learned
 
 Through building this project, I practiced and understood:
 
