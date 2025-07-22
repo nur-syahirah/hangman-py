@@ -1,0 +1,13 @@
+bison
+chimpanzee
+orangutan
+capybara
+llama
+redpanda
+panther
+wombat
+possum
+hedgehog
+oryx
+armadillo
+antelope

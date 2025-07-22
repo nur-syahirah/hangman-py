@@ -1,0 +1,9 @@
+classify
+preference
+perspective
+gallery
+reaction
+joystick
+beach 
+coffee
+message
